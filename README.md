@@ -14,6 +14,6 @@ Techniques used to improve the model:
 - Imputer
 - One hot encoding and Label Encoder
 
-I am currently still working on this competition.  
+
 
 
